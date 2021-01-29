@@ -7,5 +7,7 @@ def my_all?(array)
   end
   if new_array.include?(false)
     false
+  else
+    true
   end
 end
