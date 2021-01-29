@@ -1,3 +1,3 @@
-def my_all(array)
+def my_all?(array)
 
 end
