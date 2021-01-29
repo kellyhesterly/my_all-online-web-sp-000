@@ -3,4 +3,5 @@ def my_all?(array)
   while i < array.length
     yield (array[i])
     counter += 1
+  end
 end
